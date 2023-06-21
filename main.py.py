@@ -175,7 +175,7 @@ canvas = tk.Canvas(window, width=800, height=600)
 canvas.pack()
 
 # Carregar a imagem de fundo
-imagem_fundo = tk.PhotoImage(file="D:\PUCPR\Jogodetetive\peq.png")
+imagem_fundo = tk.PhotoImage(file="/workspaces/Jogo_Detetive/peq.png")
 canvas.create_image(0, 0, anchor=tk.NW, image=imagem_fundo)
 
 # Configuração da entrada de resposta
