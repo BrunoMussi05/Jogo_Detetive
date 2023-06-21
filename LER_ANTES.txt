@@ -1,0 +1,12 @@
+Profe, eu tentei tudo o que eu conseguia, mas nao consegui fazer funcionar sem mudar o caminho da imagem manualmente.
+entao para o código funcionar, por favor mude na linha 176 o diretório antigo,  (do meu computador), para o diretório que voce escolheu 
+extrair a pasta.
+
+Vou colocar o grupo aqui tambem, por via das duvidas. 
+
+Bruno Mussi
+Bruno Sandoval
+Gian Carlo
+Paulo perin
+
+Espero que goste <3
